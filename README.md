@@ -15,7 +15,7 @@ There's a total of *67,580* non-Vine 5-star reviews while there are none 5-star 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 From the results above, we have calculated that 5-star reviews represent *63.77%* of all the non-Vine reviews while there's none 5-star Vine (paid) reviews. 
 
-![image](https://user-images.githubusercontent.com/69827757/123376412-0dc44a80-d550-11eb-9e4b-9b2644df1792.png)
+![image](https://github.com/ejyongc/Amazon_Vine_Analysis/blob/main/5%20star%20paid%20and%20unpaid%20reviews.png)
 
 # 3. Summary
 
